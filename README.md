@@ -29,13 +29,13 @@ CapyNews é um portal de notícias construído em React, que permite aos usuári
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/newsportal.git
+   git clone https://github.com/oHenryy/CapyNews.git
    ```
 
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd newsportal
+   cd CapyNews
    ```
 
 3. **Instale as dependências:**
@@ -61,7 +61,7 @@ CapyNews é um portal de notícias construído em React, que permite aos usuári
 ## Estrutura de Pastas
 
 ```
-newsportal/
+CapyNews/
 │
 ├── public/              # Arquivos públicos
 │
